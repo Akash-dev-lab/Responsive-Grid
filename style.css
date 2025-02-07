@@ -178,7 +178,7 @@ product:hover {
         padding: 20px;
       }
       .card-body:hover .card-image {
-        transform: scale(1.4) translateZ(100px) rotateX(10deg) rotateZ(-10deg);
+        transform: scale(1.2) translateZ(100px) rotateX(10deg) rotateZ(-10deg);
       }
       .card-image img {
         width: 100%;
