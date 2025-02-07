@@ -97,7 +97,7 @@ product:hover {
 
       .card-body {
         position: relative;
-        background-color:rgb(126, 76, 126);
+        background-color:rgba(56, 54, 56, 0.97);
         /* border: 1px solid rgba(0,0,0,0.1);    */
         border-radius: 12px;
         padding: 24px;
